@@ -14,6 +14,7 @@ Backend:
 - Used Effective Dart style
 
 ## Compiled Build APK
+https://disk.yandex.ru/d/MqJ0OwdbPag40A
 
 ## Getting Started
 
